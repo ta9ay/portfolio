@@ -11,7 +11,7 @@ Exploratory Data Analysis of over 130 million rows of data collected from NYC ta
 ## [Analyzing ratings creep in Hollywood movies](https://github.com/ta9ay/movie-analysis)
 There has been a rising concern about a ratings creep, i.e. the movie ratings have become less stringent over time. People have felt that newer movies contain more explicit content, strong language and nudity as compared to older similarly rated movies. This project uses NLP models, quantitative data, and statistical tests to analyze if this ratings creep actually exists.
 
-## [Neural network writted from scratch](https://github.com/ta9ay/NeuralNet-from-scratch)
+## [Neural network written from scratch](https://github.com/ta9ay/NeuralNet-from-scratch)
 A simple feed-forward neural network written in Python. Uses SGD for backpropogation. It's a simplified version of a neural network that I wrote to better understand the way an NN works.
 
 ## [Neuroevolution Flappy Bird](https://github.com/ta9ay/NeuroEvolution-FlappyBird)
