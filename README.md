@@ -1,4 +1,4 @@
-# Data Science and Analytics Portfolio
+# Data Science and Programming Portfolio
 
 ## Overview
 This is a collection of all the projects I've worked on related to data analysis, data science, and machine learning. I'm an aspiring data analyst/ scientist, and I've always felt that personally I learn best through practical experience. This repository is a journal of the progress I've made through the years on my journey of exploring this field.<br>
