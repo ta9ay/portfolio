@@ -17,3 +17,5 @@ A simple feed-forward neural network written in Python. Uses SGD for backpropoga
 ## [Neuroevolution Flappy Bird](https://github.com/ta9ay/NeuroEvolution-FlappyBird)
 Training a bot to play a graphically simplified version of FlappyBird (written in PyGame) using the neuroevolution algorithm. Utilizes the self-written neural network module. 
 
+## [Basic Unix Shell](https://github.com/ta9ay/Basic-unix-shell)
+A simple UNIX shell written in C. Shell can perform few basic operations, and was written to better understand system calls and UNIX confugs.
